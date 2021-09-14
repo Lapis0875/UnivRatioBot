@@ -16,7 +16,7 @@ class UnivRatioCog(commands.Cog):
         self.config: UnivConfig = UnivConfig.load()
         self.session = aiohttp.ClientSession()
         self.webhook = Webhook.from_url(
-            'https://discord.com/api/webhooks/887159212017320026/77UjxQbDI4Vb9AL8spcpyvuJCHU_4-GvszbSjWWoJtuFRHNO1vMWSyruxpqHDlwxZl5N',
+            'YOUR_WEBHOOK_URL',
             adapter=AsyncWebhookAdapter(session=self.session)
         )
         self.update_and_notify.start()
