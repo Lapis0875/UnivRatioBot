@@ -1,0 +1,53 @@
+{
+  "updated": "2021-09-14T11:11:32.950781+00:00",
+  "universities": {
+    "한양대": {
+      "ratio_url": "http://addon.jinhakapply.com/RatioV1/RatioH/Ratio11640141.html",
+      "target_xpath": "/html/body/form/div/div[2]/div[3]/div[1]/table/tbody/tr[3]",
+      "type": "진학",
+      "final": true
+    },
+    "서강대": {
+      "ratio_url": "http://addon.jinhakapply.com/RatioV1/RatioH/Ratio12050201.html",
+      "target_xpath": "/html/body/form/div/div[2]/div[3]/div[1]/table/tbody/tr[3]",
+      "type": "진학",
+      "final": true
+    },
+    "중앙대": {
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KOjhMSmYlJjomSmZmVGY",
+      "target_xpath": "/html/body/div[2]/div/div[1]/div/div[2]/div[2]/table/tbody[1]/tr[4]",
+      "type": "유웨이",
+      "final": true
+    },
+    "경희대": {
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KOnw5SmYlJjomSmZmVGY=",
+      "target_xpath": "/html/body/div[2]/div/div[1]/div/div[2]/div[2]/table[2]/tbody[1]/tr[2]",
+      "type": "유웨이",
+      "final": true
+    },
+    "국민대": {
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KVyVNOWFhOUpmJSY6JkpmZlRm",
+      "target_xpath": "/html/body/div/div/div[1]/div/div[2]/div[2]/table/tbody[1]/tr[1]",
+      "type": "유웨이",
+      "final": false
+    },
+    "숭실대": {
+      "ratio_url": "http://addon.jinhakapply.com/RatioV1/RatioH/Ratio11010151.html",
+      "target_xpath": "/html/body/form/div/div[2]/div[3]/div[1]/table/tbody/tr[10]",
+      "type": "진학",
+      "final": true
+    },
+    "광운대1": {
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KTjlKZiUmOiZKZmZUZg==",
+      "target_xpath": "/html/body/div/div/div[1]/div/div[2]/div[2]/table/tbody[1]/tr[1]",
+      "type": "유웨이",
+      "final": false
+    },
+    "광운대2": {
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KTjlKZiUmOiZKZmZUZg==",
+      "target_xpath": "/html/body/div/div/div[1]/div/div[2]/div[2]/table/tbody[1]/tr[2]",
+      "type": "유웨이",
+      "final": false
+    }
+  }
+}

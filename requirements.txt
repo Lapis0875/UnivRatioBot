@@ -1,0 +1,2 @@
+discord.py>=1.7.3
+pyppeteer >= 0.2.6
